@@ -1,0 +1,13 @@
+train: D:/Yolov5/datasets-2/train/images
+val: D:/Yolov5/datasets-2/valid/images
+test: D:/Yolov5/datasets-2/test/images
+
+nc: 5
+names: ['cheetah', 'human', 'elephant', 'bear', 'lion']
+
+roboflow:
+  workspace: brad-dwyer
+  project: thermal-cheetah
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/brad-dwyer/thermal-cheetah/dataset/1
