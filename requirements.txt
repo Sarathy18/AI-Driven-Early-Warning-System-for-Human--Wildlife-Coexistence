@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+tensorflow
+scikit-learn
+ultralytics
+opencv-python-headless
+pyserial
+librosa
+soundfile
+
